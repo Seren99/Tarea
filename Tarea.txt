@@ -1,4 +1,5 @@
 Primera linea de código
 Segunda línea de código 
 Se realizan cambios adicionales en la rama Feature
+Conflicto XXX
 Conflicto ZZZ
